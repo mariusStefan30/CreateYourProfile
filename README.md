@@ -2,5 +2,5 @@
 
 Project screenshot
 
-![Screenshot](CreateYourProfile.png)
+![Screenshot](CreateYourProfile.PNG)
 
